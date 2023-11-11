@@ -4,7 +4,7 @@ eleventyNavigation:
   key: About Me
   order: 3
 ---
-# William "Bill" Gaines{style="text-align:center"}
+# William "Bill" Gaines {style="text-align:center"}
 ![Bill.](/img/me.jpg) {style="text-align:center"}
 
 ## Background
