@@ -1,21 +1,46 @@
 ---
-layout: layouts/base.njk
+layout: layouts/posts_body.njk
 eleventyNavigation:
   key: About Me
   order: 3
 ---
-# William "Bill" Gaines {style="text-align:center"}
-![Bill.](/img/me.jpg) {style="text-align:center"}
+<div class="w-40">
 
-## Background
+# Grant Garab {style="text-align:center"}
+![Grant Garab](/img/sell-your-house-fast-with-grant.jpg) {style="text-align:center"}
 
-William "Bill" Gaines is a dedicated real estate investor with a passion for transforming properties through house flipping in Georgia. With an eye for potential and a talent for design, Bill has made a name for himself in the competitive real estate market. His journey began after he realized the opportunity in revitalizing homes and communities, leading to his commitment to the craft of house flipping.
+## About Grant Garab
+**Co-Owner of [WeAreHomeBuyers.com](https://www.wearehomebuyers.com) & Retired Marine**
 
-Bill’s approach to real estate investment is both strategic and creative. He is known for his ability to see beyond dated decor and rundown structures, envisioning the hidden possibilities that lie within. His renovations are not merely cosmetic; they are comprehensive overhauls that enhance both the value and appeal of each property.
+As a retired Marine with over sixteen years of service to our nation, I, Grant Garab, have always been driven by dedication and resilience. In 2019, a life-changing motorcycle accident shifted my focus towards new goals and aspirations, both for myself and my family.
 
-Throughout Georgia, Bill has left his mark on numerous neighborhoods, often being credited with raising local property values thanks to his high-quality flips. His projects frequently involve custom kitchen remodels, smart home integrations, and sustainable landscaping, all of which appeal to modern buyers.
 
-## Lifestyle
-Beyond his investment ventures, Bill is a community figure who believes in giving back. He often hosts workshops for aspiring real estate investors and volunteers his time with local charities that focus on housing for the less fortunate.
+## The Turning Point
+**Overcoming Adversity & Finding New Purpose**
 
-Bill Gaines’ reputation as a real estate investor is built on a foundation of hard work, innovation, and a genuine love for his craft. Each house he flips is a testament to his belief that any property, no matter how neglected, has the potential to become a cherished home.
+The near-fatal collision that left me confined to a wheelchair for eight months, enduring over a dozen surgeries, offered me a unique opportunity for reflection. During this challenging period, I pondered my future and that of my wife and our three sons.
+
+
+## A New Chapter
+**Establishing WeAreHomeBuyers.com**
+
+With retirement from the Marine Corps approaching and years of experience in assisting homeowners, I founded WeAreHomeBuyers.com. This venture was a culmination of my journey and experiences, combining my commitment to service with a newfound passion for real estate.
+
+
+## Our Mission at WeAreHomeBuyers.com
+**Commitment to Customers & Community**
+
+At WeAreHomeBuyers.com, our primary goal is to create beneficial outcomes for everyone involved in the buying and selling of properties. We prioritize our clients' needs, ensuring that each real estate challenge is met with a viable and effective strategy. Our mission extends beyond transactions; we aim to build lasting relationships and become a trusted partner in your real estate journey.
+
+
+## Grant's Promise
+**Fairness, Honesty, and Respect in Real Estate**
+
+In every interaction, I am committed to fairness, honesty, and respect. My approach is to always act with integrity, maintain a positive attitude, and strive for win-win solutions. I understand the difficulties some face in real estate and pledge to be a supportive and effective ally in addressing these challenges.
+
+## Let's Work Together
+**Grant Garab & Family: A Partnership You Can Trust**
+
+Together with my wife and children, I am dedicated to making WeAreHomeBuyers.com a symbol of trust and efficacy in the real estate market. We invite you to join us in this journey, where your needs are our top priority.
+
+</div>
