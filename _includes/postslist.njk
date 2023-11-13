@@ -2,7 +2,7 @@
 {% for post in postslist | reverse %}
 <div class="grid-item">
 	<!--<div class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}"> -->
-		<img src="{{ post.data.featured_img }}" />
+		<img src="{{ post.data.featured_img }}" alt="{{ post.data.alt_text }}" width="400" height="400" />
 		<div class="posts_date">
 		<time datetime="{{ post.data.date | htmlDateString }}">{{ post.data.date | readableDate }}</time>
 		</div>
