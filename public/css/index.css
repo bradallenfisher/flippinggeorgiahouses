@@ -14,6 +14,7 @@
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #1493fb;
+	--text-dark-link:#121212;
 	--text-color-link-active: #ff5e14;
 	--text-color-link-visited: #17050F;
 
@@ -82,7 +83,7 @@ li {
 	line-height: 1.5;
 }
 .post-metadata a[href] {
-	color: #121212;
+	color: var(--text-dark-link);
 }
 a[href] {
 	font-weight: 700;
@@ -316,7 +317,7 @@ h2 + .header-anchor {
   content: "\2733";
   font-size: 1.3em;	
   font-weight: bold;
-  color: #1493fb;
+  color: var(--text-color-link);
   padding-right: 20px;
   padding-left: 25px;
 }
@@ -341,7 +342,7 @@ h2 + .header-anchor {
 .full-post ol li:before {
 	display: table-cell;
     content: counter(list)". ";
-    color: #1493fb;
+    color: var(--text-color-link);
 	font-size: 1.2em;
 	padding-right: 20px;
 	font-weight: bold;
@@ -365,12 +366,12 @@ p.big-code {
 }
 .grid-item img {
 	margin-bottom: 20px;
-	border-top: 3px solid #1493fb;
+	border-top: 3px solid var(--text-color-link);
 }
 .grid-item a {
 	text-decoration: none;
 	line-height: 1;
-	color: #121212;
+	color: var(--text-dark-link);
 }
 .grid-item .desc {
     margin: 20px 0;
