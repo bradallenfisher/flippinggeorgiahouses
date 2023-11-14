@@ -13,8 +13,8 @@
 	--background-color: #fff;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
+	--text-color-link: #1493fb;
+	--text-color-link-active: #ff5e14;
 	--text-color-link-visited: #17050F;
 
 	--syntax-tab-size: 2;
@@ -81,7 +81,12 @@ p {
 li {
 	line-height: 1.5;
 }
-
+.post-metadata a[href] {
+	color: #121212;
+}
+a[href] {
+	font-weight: 700;
+}
 a[href] {
 	color: var(--text-color-link);
 }
@@ -342,7 +347,6 @@ h2 + .header-anchor {
 	font-weight: bold;
 }
 
-
 .full-post p {
 	font-size: 1.2em;
 }
@@ -366,6 +370,7 @@ p.big-code {
 .grid-item a {
 	text-decoration: none;
 	line-height: 1;
+	color: #121212;
 }
 .grid-item .desc {
     margin: 20px 0;
